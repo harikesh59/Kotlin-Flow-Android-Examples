@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/MindorksOpenSource/Kotlin-Flow-Android-Examples) 
+
 <img src=https://raw.githubusercontent.com/MindorksOpenSource/Kotlin-Flow-Android-Examples/master/art/export-kotlin-banner.png >
 
 # Kotlin-Flow-Android-Examples - Learn Flow for Android by Examples
